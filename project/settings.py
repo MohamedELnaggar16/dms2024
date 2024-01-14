@@ -18,7 +18,7 @@ SECRET_KEY = 'django-insecure-ygw1s2mom#po=mlt_pmz!xz#$j_-etxb7)u*br^$u%8gjcfad!
 DEBUG = True
 
 
-ALLOWED_HOSTS = ['127.0.0.1','.localhost', 'dms.up.railway.app']
+ALLOWED_HOSTS = ['127.0.0.1','.localhost', 'web-production-7304.up.railway.app']
 CSRF_TRUSTED_ORIGINS = ['https://dms.up.railway.app']
 
 # Application definition
